@@ -1,11 +1,11 @@
 h2{
-    color :blue;
+    color :green;
 }
 
 th{
     color: red;
     padding: 20px;
-    background-color: aquamarine;
+    background-color: yellow;
 }
 td{
     padding:20px;
