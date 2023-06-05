@@ -12,7 +12,7 @@ var change_my_pick = function(){
     else
     {
         displaydata=data1;
-        isdata2=true;
+        isdata1=true;
     }
     document.getElementById("myimage").src=displaydata.image;
     document.getElementById("myname").innerHTML=displaydata.name;
