@@ -3,7 +3,7 @@ var data2={image : "kiran2.jpg.jpeg", name : "Kiran kumar" ,designation : "Softw
 
 var isdata1=true;
 var displaydata;
-var change_my_pick = function(){
+var change_my_pic=function(){
     if(isdata1)
     {
         displaydata=data2;
