@@ -15,5 +15,7 @@ var change_my_pick = function(){
         isdata2=true;
     }
     document.getElementById("myimage").src=displaydata.image;
+    document.getElementById("myname").innerHTML=displaydata.name;
+    document.getElementById("mydesignation").innerHTML=displaydata.designation;
 
 }
