@@ -1,5 +1,5 @@
-var data1={image : "kiran1.jpg.jpeg", name : "Gummula Kiran Kumar" ,designation : "Software Engineer"};
-var data2={image : "kiran2.jpg.jpeg", name : "Kiran kumar" ,designation : "Software Developer"};
+var data1={image : "207r1a05e0/207r1a05e0.github.io/kiran1.jpg.jpeg", name : "Gummula Kiran Kumar" ,designation : "Software Engineer"};
+var data2={image : "207r1a05e0/207r1a05e0.github.io/kiran2.jpg.jpeg", name : "Kiran kumar" ,designation : "Software Developer"};
 
 var isdata1=true;
 var displaydata;
