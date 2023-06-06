@@ -7,6 +7,6 @@ var changemypic=function(){
 
         document.getElementById("myimage").src=userinfo.image;
         document.getElementById("myname").innerHTML=userinfo.name;
-        document.getElementById("mydesignation").innerHTML=userinfo.usrname;
+        document.getElementById("mydesignation").innerHTML=userinfo.username;
     });
 }
