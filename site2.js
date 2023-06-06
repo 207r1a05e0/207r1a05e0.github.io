@@ -1,4 +1,4 @@
-var userinfo={name:"",image:"",username:""};
+var userinfo = {name:"",image:"",username:""};
 var changemypic=function(){
     fetch("https://randomuser.me/api").then((response)=>response.json()).then((data)=>{
         userinfo.name=data.results[0].name.first;
@@ -8,6 +8,5 @@ var changemypic=function(){
         document.getElementById("myimage").src=userinfo.image;
         document.getElementById("myname").innerHTML=userinfo.name;
         document.getElementById("mydesignation").innerHTML=userinfo.username;
-        
     });
 }
