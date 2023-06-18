@@ -3,14 +3,15 @@
 
 }
 .card{
-    
-    width: 75%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 32%;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
     transition: 0.7s;
 }
+
 h2 {
     text-align: left;
 }
